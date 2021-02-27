@@ -2,7 +2,7 @@ Summary:	Variables defined by the XDG Base Directory Specification
 Summary(pl.UTF-8):	Zmienne zdefiniowane w specyfikacji XDG Base Directory
 Name:		python3-xdg
 Version:	4.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/xdg/
